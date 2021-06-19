@@ -11,4 +11,4 @@ Follow this tutorial on [Gitlab](https://lab.github.com/githubtraining/uploading
 Need some ideas on how to make a README file?
 
 Check out this [Readme](https://www.makeareadme.com/)
-site.
+site for some helpful tips. 
